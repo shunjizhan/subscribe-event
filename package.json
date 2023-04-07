@@ -1,0 +1,11 @@
+{
+  "name": "subscribe-event",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:shunjizhan/subscribe-event.git",
+  "author": "Shunji Zhan <shunhahaha@live.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@polkadot/api": "^10.2.2"
+  }
+}
